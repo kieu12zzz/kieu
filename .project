@@ -7,6 +7,9 @@
 	<buildSpec>
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<!-- tín thêm code -->
 			<arguments>
 			</arguments>
 		</buildCommand>
